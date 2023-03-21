@@ -3,7 +3,8 @@
 - ❓  Cybersec Prefessional. 
 - 🔭 Currently working in Cloud & AI
 - 🌱 I’m currently learning Bug Hunting
-- 💬 Ask me anything. 
+- 💬 Ask me anything. )
+
 
 ## 🎟 My Documentation
 - Atlassian confluence
