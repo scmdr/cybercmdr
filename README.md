@@ -63,3 +63,8 @@ Certified Ethical Hacker (C|EH). Microsoft Azure. CISSP in View.  References on 
   <img src="https://www.certwizard.com/sites/default/files/styles/440xauto/public/2020-04/EC-Council-ECSA-certwizard.png?itok=F31Exchl" width="100" height="100">
   <img src="https://losmejorescursosde.com/wp-content/uploads/2020/12/az900.jpg" width="100" height="100">
 </p>
+
+AI & Humans automate 10X with https://automateam.ai. 
+Commune @  https://discord.gg/yzRFUqVgA7
+
+Antipiracy @ https://priveguard.com. Cyber tips @ https://cmprslabs.substack.com
