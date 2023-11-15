@@ -58,3 +58,8 @@ Certified Ethical Hacker (C|EH). Microsoft Azure. CISSP in View.  References on 
 - 📞 [https://www.linkedin.com/in/sebaguele/)
 - 📨 [Email Me](s.aguele@protonmail.com)
 
+## 🏆 Badges(A few in my arsenal):
+<p float="left">
+  <img src="https://www.certwizard.com/sites/default/files/styles/440xauto/public/2020-04/EC-Council-ECSA-certwizard.png?itok=F31Exchl" width="100" height="100">
+  <img src="https://losmejorescursosde.com/wp-content/uploads/2020/12/az900.jpg" width="100" height="100">
+</p>
