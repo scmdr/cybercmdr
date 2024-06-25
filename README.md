@@ -1,14 +1,14 @@
 ## <h1>Hey, I'm Seb! <a href="https://www.linkedin.com/in/sebaguele/">Information Security Professional</a> 👋
 
 - 🔭 Currently working @ Microsoft/Nuance Cloud & AI
-- 🌱 working on Automateam AI Business Process Workflow and Automation.Detection Engineering Implementation.
+- 🌱 working on Cybersecurity tools for logging, endpoint security, automated 24/7 threat monitoring, and detection.
 - 💬 Ask me anything.)
 
 <h2>👨‍💻 Information Security Projects:</h2>
 
 - <b>Deploy Defender for container. Docker and Kubernetes. Providing recommendations through Azure console for (AKS) Azure Kubernetes services. Reporting on the image registry. providing reports on critical vulnerabilities that had an impact on business.</b>
 
-- <b>Implement RBAC Role-based access control through user account provisioning to access org assets and Azure resources, including encryption, and certificate management for privileged access.</b>
+- <b>Implement I AM tools for RBAC Role-based access control through user account provisioning to access org assets and Azure resources, including encryption, and certificate management for privileged access.</b>
 
 - <b>CIS system benchmark and image hardening. Reduce risk, and align DevOps to the CIS framework. This includes owning and documenting the project lifecycle This includes defining service offerings, service intakes, automation workflows, providing guidance for line of business in hardening images against CIS templates, and determining the template version. aligning the OS to application dependencies, and asset assessments through the Internal tooling console.</b>
 
@@ -20,11 +20,11 @@
 ## 🎟 My Achievements
 Reduced intrusions by 78% and malware infections by 62% over the past year. Through detection Engineering, Configuring and administering firewalls, intrusion prevention systems, and endpoint security solutions across the organization's infrastructure,
 
-Drove 30% improvement in vulnerability remediation rates by designing and deploying security solutions that empowered product teams to efficiently identify, analyse and resolve defects throughout their SDLC. 
+Drove a 67% improvement in vulnerability remediation rates by designing and deploying security solutions that empowered product teams to efficiently identify, analyse and resolve defects throughout their SDLC. 
 
 Collaborated with DevOps to continuously harden production environments by optimizing detection, patching vulnerabilities, and hardening images.
 
-Deployed Defender for container. Docker and Kubernetes. Providing recommendations through Azure console for (AKS) Azure Kubernetes services. Reporting on the image registry. Providing reports on critical vulnerabilities that had an impact on business. 
+Deployed Defender for containers. Docker and Kubernetes. Providing recommendations through Azure console for (AKS) Azure Kubernetes services. Reporting on the image registry. Providing reports on critical vulnerabilities that had an impact on business. 
 
 ## 🎟 My Documentation
 - Atlassian Confluence
@@ -64,7 +64,10 @@ Certified Ethical Hacker (C|EH). Microsoft Azure. CISSP in View.  References on 
   <img src="https://losmejorescursosde.com/wp-content/uploads/2020/12/az900.jpg" width="100" height="100">
 </p>
 
-AI & Humans automate 10X with https://automateam.ai. 
+AI & Humans automate 10X with https://securemepro.com. 
+Your EDR
+dependencies
+in one easy-to-use solution
 Commune @  https://discord.gg/yzRFUqVgA7
 
 Antipiracy @ https://priveguard.com. Cyber tips @ https://cmprslabs.substack.com
